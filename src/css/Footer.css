@@ -1,0 +1,12 @@
+.footer{
+position: absolute;
+bottom: 0;
+width: 100%;
+text-align: center;
+padding: 2rem 0;
+background-color: #221f1fef;
+box-shadow: 0px 0px 15px 2px #0c0c0c;
+}
+.footer h1{
+    color: #fff;
+}
